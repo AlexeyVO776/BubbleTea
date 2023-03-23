@@ -1,0 +1,21 @@
+.intro {
+  background-color: rgba(0, 0, 0, 0);
+  background-image: url("Popping-Boba-Amazon-scaled.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll, fixed;
+  background-position: 0 0, center top;
+  color: #fff;
+  padding: 60px;
+  margin-top: 76px;
+}
+.intro-logo {
+  width: 240px;
+  height: auto;
+  margin-bottom: 80px;
+}
+.intro .text-land {
+  color: #fff;
+  max-width: 70%;
+  margin: 0 15%;
+}
